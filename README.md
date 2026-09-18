@@ -2,20 +2,6 @@
 
 A Computer Vision project that converts **American Sign Language (ASL)** hand gestures captured via webcam into **text** and **spoken words** using YOLO, OpenCV, and Text-to-Speech (TTS) technology.
 
---
-
-## Table of Contents
-- [Features](#features)
-- [Demo](#demo)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Future Improvements](#future-improvements)
-- [License](#license)
-
---
-
 ## Demo
 
 <p align="center">
@@ -23,8 +9,6 @@ A Computer Vision project that converts **American Sign Language (ASL)** hand ge
 </p>
 
 > Note: Short demo video displayed as GIF. For longer demos, link to external video.
-
---
 
 ## Requirements
 
