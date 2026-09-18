@@ -1,8 +1,8 @@
-# ASL to Speech 🤟🎙️
+# ASL to Speech
 
 A Computer Vision project that converts **American Sign Language (ASL)** hand gestures captured via webcam into **text** and **spoken words** using YOLO, OpenCV, and Text-to-Speech (TTS) technology.
 
----
+--
 
 ## Table of Contents
 - [Features](#features)
@@ -14,18 +14,7 @@ A Computer Vision project that converts **American Sign Language (ASL)** hand ge
 - [Future Improvements](#future-improvements)
 - [License](#license)
 
----
-
-## Features
-- Detects ASL hand gestures in real-time using a webcam.
-- Converts detected gestures into **text**.
-- Speaks the detected text aloud using **Text-to-Speech**.
-- Flip camera for mirror view.
-- Add spaces and delete characters from sentence buffer.
-- Press **Shift (`S`)** to confirm a detected letter into the buffer.
-- Press **Enter** to read the sentence aloud.
-
----
+--
 
 ## Demo
 
@@ -35,7 +24,7 @@ A Computer Vision project that converts **American Sign Language (ASL)** hand ge
 
 > Note: Short demo video displayed as GIF. For longer demos, link to external video.
 
----
+--
 
 ## Requirements
 
